@@ -1,8 +1,8 @@
-# Project Showcase Application
+# Single Page Application with React - Portfolio Platform
 
 ## Overview
 
-The Project Showcase Application is a React-based web application designed to display creative projects in a modern and responsive portfolio layout. Users can browse projects, search for specific projects, and dynamically add new projects through an interactive form.
+The Portfolio Platform Application is a React-based web application designed to display creative projects in a modern and responsive portfolio layout. Users can browse projects, search for specific projects, and dynamically add new projects through an interactive form.
 
 This application demonstrates core React concepts including component-based architecture, state management with hooks, dynamic rendering, event handling, and responsive design.
 
